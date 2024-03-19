@@ -1,0 +1,10 @@
+.card {
+  width: 40rem;
+}
+.alert {
+  display: none;
+}
+.btn {
+  color: white;
+  text-decoration: none;
+}

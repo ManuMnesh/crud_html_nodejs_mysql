@@ -1,4 +1,4 @@
-format.addEventListener("submit", () => {
+form.addEventListener("submit", () => {
   const login = {
     email: email.value,
     password: password.value,
